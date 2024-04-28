@@ -1,0 +1,56 @@
+﻿@model IEnumerable<WatchStore.Models.Product>
+
+
+@{
+    ViewData["Title"] = "Home Page";
+    int numOfQuantity = 1;
+}
+<form class="form-inline my-2 my-lg-0" method="post" asp-controller="Home" asp-action="Search">
+    <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search" name="searchTerm">
+    <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
+</form>
+<p>
+    <a asp-action="SortByName"><i class="bi bi-sort-alpha-up display-4"></i></a>
+    |
+    <a asp-action="SortByNameDesc"><i class="bi  bi-sort-alpha-down display-4"></i></a>
+    |
+    <a asp-action="SortByPriceAsc"><i class="bi bi-sort-up display-4"></i></a>
+    |
+    <a asp-action="SortByPriceDesc"><i class="bi bi-sort-down-alt display-4"></i></a>
+</p>
+<section class="py-2">
+    <div class="container px-4 px-lg-5 mt-5">
+        <div class="row gx-4 gx-lg-5 row-cols-2 row-cols-md-3 row-cols-xl-4 justify-content-center">
+
+            @foreach (var item in Model)
+            {
+                <div class="col mb-5">
+                    <div class="card gap-3" style="width: 16rem">
+                        <img src="/@item.ImageUrl" class="card-img-top" alt="..." style="height: 200px">
+                        <div class="card-body">
+                            <h5 class="card-title">@Html.DisplayFor(modelItem => item.Name)</h5>
+                            <div class="d-flex">
+                                <span>Price: </span>
+                                <p class="mx-3">@item.Price.ToString("#,##0") Vnđ</p>
+
+                            </div>
+                            <a asp-controller="ShoppingCart" asp-action="AddToCart" asp-route-productId="@item.Id"
+                               asp-route-quantity="@numOfQuantity">
+                               <button class="btn btn-outline-dark"><i class="bi-cart-fill me-1"></i>Add to Cart</button>
+
+                               
+                            </a>
+                            <a asp-controller="Product" asp-action="Like" asp-route-productId="@item.Id"
+                              >
+                            <i class="bi-star like-icon"></i>
+                            </a>
+                        </div>
+
+                     
+
+                    </div>
+                </div>
+            }
+        </div>
+    </div>
+</section>

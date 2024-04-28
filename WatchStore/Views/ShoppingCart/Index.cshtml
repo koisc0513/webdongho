@@ -1,0 +1,37 @@
+﻿@model ShoppingCart
+
+<h2>Giỏ hàng của bạn</h2>
+
+<table class="table">
+    <tr>
+        <th>Sản Phẩm</th>
+        <th>Số Lượng</th>
+        <th>Giá</th>
+        <th>Tổng Cộng</th>
+    </tr>
+    @foreach (var item in Model.Items)
+    {
+        <tr id="product-@item.ProductId">
+            <!-- Thêm id cho mỗi hàng -->
+            <td>@item.Name</td>
+            <td>
+                <form asp-controller="ShoppingCart" asp-action="UpdateQuantity" method="post">
+                    <input type="hidden" name="productId" value="@item.ProductId" />
+                    <label for="quantity-@item.ProductId">Số lượng:</label> <!-- Thêm id cho input -->
+                    <input type="number" id="quantity-@item.ProductId" name="quantity" value="@item.Quantity" onchange="updatePrice(@item.ProductId)" /> <!-- Thêm onchange event -->
+                    <button class="btn btn-primary" type="submit">Cập nhật</button>
+                </form>
+            </td>
+            <td>@item.Price</td>
+            <td id="total-@item.ProductId">@String.Format("{0:0.00}", item.Price * item.Quantity)</td>
+            <!-- Thêm id cho cột tổng cộng -->
+            <td>
+                <a asp-action="RemoveFromCart" asp-route-productId="@item.ProductId">Remove</a>
+            </td>
+        </tr>
+    }
+
+</table>
+
+<a asp-action="Checkout" class="btn btn-info">Đặt hàng</a>
+

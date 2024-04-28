@@ -1,0 +1,19 @@
+﻿@model IEnumerable<WatchStore.Models.Product>
+
+<h2>Your Liked Products</h2>
+
+<div class="row">
+    @foreach (var product in Model)
+    {
+        <div class="col-md-4 mb-3">
+            <div class="card">
+                <img src="/@product.ImageUrl" class="card-img-top" alt="@product.Name">
+                <div class="card-body">
+                    <h5 class="card-title">@product.Name</h5>
+                    <p class="card-text">Price: @product.Price.ToString("#,##0") Vnđ</p>
+                    <a href="@Url.Action("Detail", "Product", new { id = product.Id })" class="btn btn-primary">View Details</a>
+                </div>
+            </div>
+        </div>
+    }
+</div>

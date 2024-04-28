@@ -1,0 +1,1437 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\WatchStore.bundle.scp.css",
+      "PackagePath": "staticwebassets\\WatchStore.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Adminassets\\css\\app.min.css",
+      "PackagePath": "staticwebassets\\Adminassets\\css\\app.min.css"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Adminassets\\es6\\app.js",
+      "PackagePath": "staticwebassets\\Adminassets\\es6\\app.js"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Adminassets\\es6\\constant\\theme-constant.js",
+      "PackagePath": "staticwebassets\\Adminassets\\es6\\constant\\theme-constant.js"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Adminassets\\es6\\core\\core.js",
+      "PackagePath": "staticwebassets\\Adminassets\\es6\\core\\core.js"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Adminassets\\es6\\pages\\chartist.js",
+      "PackagePath": "staticwebassets\\Adminassets\\es6\\pages\\chartist.js"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Adminassets\\es6\\pages\\chartjs.js",
+      "PackagePath": "staticwebassets\\Adminassets\\es6\\pages\\chartjs.js"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Adminassets\\es6\\pages\\chat.js",
+      "PackagePath": "staticwebassets\\Adminassets\\es6\\pages\\chat.js"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Adminassets\\es6\\pages\\dashboard-crm.js",
+      "PackagePath": "staticwebassets\\Adminassets\\es6\\pages\\dashboard-crm.js"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Adminassets\\es6\\pages\\dashboard-default.js",
+      "PackagePath": "staticwebassets\\Adminassets\\es6\\pages\\dashboard-default.js"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Adminassets\\es6\\pages\\dashboard-e-commerce.js",
+      "PackagePath": "staticwebassets\\Adminassets\\es6\\pages\\dashboard-e-commerce.js"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Adminassets\\es6\\pages\\dashboard-project.js",
+      "PackagePath": "staticwebassets\\Adminassets\\es6\\pages\\dashboard-project.js"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Adminassets\\es6\\pages\\datatables.js",
+      "PackagePath": "staticwebassets\\Adminassets\\es6\\pages\\datatables.js"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Adminassets\\es6\\pages\\e-commerce-order-list.js",
+      "PackagePath": "staticwebassets\\Adminassets\\es6\\pages\\e-commerce-order-list.js"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Adminassets\\es6\\pages\\e-commerce-product-edit.js",
+      "PackagePath": "staticwebassets\\Adminassets\\es6\\pages\\e-commerce-product-edit.js"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Adminassets\\es6\\pages\\file-manager.js",
+      "PackagePath": "staticwebassets\\Adminassets\\es6\\pages\\file-manager.js"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Adminassets\\es6\\pages\\form-elements.js",
+      "PackagePath": "staticwebassets\\Adminassets\\es6\\pages\\form-elements.js"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Adminassets\\es6\\pages\\form-validation.js",
+      "PackagePath": "staticwebassets\\Adminassets\\es6\\pages\\form-validation.js"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Adminassets\\es6\\pages\\icon.js",
+      "PackagePath": "staticwebassets\\Adminassets\\es6\\pages\\icon.js"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Adminassets\\es6\\pages\\mail.js",
+      "PackagePath": "staticwebassets\\Adminassets\\es6\\pages\\mail.js"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Adminassets\\es6\\pages\\pricing.js",
+      "PackagePath": "staticwebassets\\Adminassets\\es6\\pages\\pricing.js"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Adminassets\\es6\\pages\\profile.js",
+      "PackagePath": "staticwebassets\\Adminassets\\es6\\pages\\profile.js"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Adminassets\\es6\\pages\\project-list.js",
+      "PackagePath": "staticwebassets\\Adminassets\\es6\\pages\\project-list.js"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Adminassets\\es6\\pages\\slider.js",
+      "PackagePath": "staticwebassets\\Adminassets\\es6\\pages\\slider.js"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Adminassets\\es6\\theme-configurator\\theme-configurator.js",
+      "PackagePath": "staticwebassets\\Adminassets\\es6\\theme-configurator\\theme-configurator.js"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Adminassets\\fonts\\anticon.eot",
+      "PackagePath": "staticwebassets\\Adminassets\\fonts\\anticon.eot"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Adminassets\\fonts\\anticon.svg",
+      "PackagePath": "staticwebassets\\Adminassets\\fonts\\anticon.svg"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Adminassets\\fonts\\anticon.ttf",
+      "PackagePath": "staticwebassets\\Adminassets\\fonts\\anticon.ttf"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Adminassets\\fonts\\anticon.woff",
+      "PackagePath": "staticwebassets\\Adminassets\\fonts\\anticon.woff"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Adminassets\\fonts\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\Adminassets\\fonts\\fa-brands-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Adminassets\\fonts\\fa-brands-400.svg",
+      "PackagePath": "staticwebassets\\Adminassets\\fonts\\fa-brands-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Adminassets\\fonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\Adminassets\\fonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Adminassets\\fonts\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\Adminassets\\fonts\\fa-brands-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Adminassets\\fonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\Adminassets\\fonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Adminassets\\fonts\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\Adminassets\\fonts\\fa-regular-400.eot"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Adminassets\\fonts\\fa-regular-400.svg",
+      "PackagePath": "staticwebassets\\Adminassets\\fonts\\fa-regular-400.svg"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Adminassets\\fonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\Adminassets\\fonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Adminassets\\fonts\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\Adminassets\\fonts\\fa-regular-400.woff"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Adminassets\\fonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\Adminassets\\fonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Adminassets\\fonts\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\Adminassets\\fonts\\fa-solid-900.eot"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Adminassets\\fonts\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\Adminassets\\fonts\\fa-solid-900.svg"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Adminassets\\fonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\Adminassets\\fonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Adminassets\\fonts\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\Adminassets\\fonts\\fa-solid-900.woff"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Adminassets\\fonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\Adminassets\\fonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Adminassets\\images\\avatars\\thumb-1.jpg",
+      "PackagePath": "staticwebassets\\Adminassets\\images\\avatars\\thumb-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Adminassets\\images\\avatars\\thumb-10.jpg",
+      "PackagePath": "staticwebassets\\Adminassets\\images\\avatars\\thumb-10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Adminassets\\images\\avatars\\thumb-11.jpg",
+      "PackagePath": "staticwebassets\\Adminassets\\images\\avatars\\thumb-11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Adminassets\\images\\avatars\\thumb-12.jpg",
+      "PackagePath": "staticwebassets\\Adminassets\\images\\avatars\\thumb-12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Adminassets\\images\\avatars\\thumb-2.jpg",
+      "PackagePath": "staticwebassets\\Adminassets\\images\\avatars\\thumb-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Adminassets\\images\\avatars\\thumb-3.jpg",
+      "PackagePath": "staticwebassets\\Adminassets\\images\\avatars\\thumb-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Adminassets\\images\\avatars\\thumb-4.jpg",
+      "PackagePath": "staticwebassets\\Adminassets\\images\\avatars\\thumb-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Adminassets\\images\\avatars\\thumb-5.jpg",
+      "PackagePath": "staticwebassets\\Adminassets\\images\\avatars\\thumb-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Adminassets\\images\\avatars\\thumb-6.jpg",
+      "PackagePath": "staticwebassets\\Adminassets\\images\\avatars\\thumb-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Adminassets\\images\\avatars\\thumb-7.jpg",
+      "PackagePath": "staticwebassets\\Adminassets\\images\\avatars\\thumb-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Adminassets\\images\\avatars\\thumb-8.jpg",
+      "PackagePath": "staticwebassets\\Adminassets\\images\\avatars\\thumb-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Adminassets\\images\\avatars\\thumb-9.jpg",
+      "PackagePath": "staticwebassets\\Adminassets\\images\\avatars\\thumb-9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Adminassets\\images\\logo\\favicon.png",
+      "PackagePath": "staticwebassets\\Adminassets\\images\\logo\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Adminassets\\images\\logo\\logo-fold-white.png",
+      "PackagePath": "staticwebassets\\Adminassets\\images\\logo\\logo-fold-white.png"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Adminassets\\images\\logo\\logo-fold.png",
+      "PackagePath": "staticwebassets\\Adminassets\\images\\logo\\logo-fold.png"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Adminassets\\images\\logo\\logo-white.png",
+      "PackagePath": "staticwebassets\\Adminassets\\images\\logo\\logo-white.png"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Adminassets\\images\\logo\\logo.png",
+      "PackagePath": "staticwebassets\\Adminassets\\images\\logo\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Adminassets\\images\\others\\adobe-thumb.png",
+      "PackagePath": "staticwebassets\\Adminassets\\images\\others\\adobe-thumb.png"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Adminassets\\images\\others\\amazon-thumb.png",
+      "PackagePath": "staticwebassets\\Adminassets\\images\\others\\amazon-thumb.png"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Adminassets\\images\\others\\cambridge-thumb.png",
+      "PackagePath": "staticwebassets\\Adminassets\\images\\others\\cambridge-thumb.png"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Adminassets\\images\\others\\coffee-app-thumb.jpg",
+      "PackagePath": "staticwebassets\\Adminassets\\images\\others\\coffee-app-thumb.jpg"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Adminassets\\images\\others\\error-1.png",
+      "PackagePath": "staticwebassets\\Adminassets\\images\\others\\error-1.png"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Adminassets\\images\\others\\error-2.png",
+      "PackagePath": "staticwebassets\\Adminassets\\images\\others\\error-2.png"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Adminassets\\images\\others\\file-manager.png",
+      "PackagePath": "staticwebassets\\Adminassets\\images\\others\\file-manager.png"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Adminassets\\images\\others\\img-1.jpg",
+      "PackagePath": "staticwebassets\\Adminassets\\images\\others\\img-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Adminassets\\images\\others\\img-10.jpg",
+      "PackagePath": "staticwebassets\\Adminassets\\images\\others\\img-10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Adminassets\\images\\others\\img-11.jpg",
+      "PackagePath": "staticwebassets\\Adminassets\\images\\others\\img-11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Adminassets\\images\\others\\img-12.jpg",
+      "PackagePath": "staticwebassets\\Adminassets\\images\\others\\img-12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Adminassets\\images\\others\\img-13.jpg",
+      "PackagePath": "staticwebassets\\Adminassets\\images\\others\\img-13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Adminassets\\images\\others\\img-14.jpg",
+      "PackagePath": "staticwebassets\\Adminassets\\images\\others\\img-14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Adminassets\\images\\others\\img-2.jpg",
+      "PackagePath": "staticwebassets\\Adminassets\\images\\others\\img-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Adminassets\\images\\others\\img-3.jpg",
+      "PackagePath": "staticwebassets\\Adminassets\\images\\others\\img-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Adminassets\\images\\others\\img-4.jpg",
+      "PackagePath": "staticwebassets\\Adminassets\\images\\others\\img-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Adminassets\\images\\others\\img-5.jpg",
+      "PackagePath": "staticwebassets\\Adminassets\\images\\others\\img-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Adminassets\\images\\others\\img-6.jpg",
+      "PackagePath": "staticwebassets\\Adminassets\\images\\others\\img-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Adminassets\\images\\others\\img-7.jpg",
+      "PackagePath": "staticwebassets\\Adminassets\\images\\others\\img-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Adminassets\\images\\others\\img-8.jpg",
+      "PackagePath": "staticwebassets\\Adminassets\\images\\others\\img-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Adminassets\\images\\others\\img-9.jpg",
+      "PackagePath": "staticwebassets\\Adminassets\\images\\others\\img-9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Adminassets\\images\\others\\local-image.jpg",
+      "PackagePath": "staticwebassets\\Adminassets\\images\\others\\local-image.jpg"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Adminassets\\images\\others\\login-1.jpg",
+      "PackagePath": "staticwebassets\\Adminassets\\images\\others\\login-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Adminassets\\images\\others\\login-2.png",
+      "PackagePath": "staticwebassets\\Adminassets\\images\\others\\login-2.png"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Adminassets\\images\\others\\login-3.png",
+      "PackagePath": "staticwebassets\\Adminassets\\images\\others\\login-3.png"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Adminassets\\images\\others\\music-app-thumb.jpg",
+      "PackagePath": "staticwebassets\\Adminassets\\images\\others\\music-app-thumb.jpg"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Adminassets\\images\\others\\nvidia-thumb.png",
+      "PackagePath": "staticwebassets\\Adminassets\\images\\others\\nvidia-thumb.png"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Adminassets\\images\\others\\phillips-academy-thumb.png",
+      "PackagePath": "staticwebassets\\Adminassets\\images\\others\\phillips-academy-thumb.png"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Adminassets\\images\\others\\product-1.jpg",
+      "PackagePath": "staticwebassets\\Adminassets\\images\\others\\product-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Adminassets\\images\\others\\product-2.jpg",
+      "PackagePath": "staticwebassets\\Adminassets\\images\\others\\product-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Adminassets\\images\\others\\product-3.jpg",
+      "PackagePath": "staticwebassets\\Adminassets\\images\\others\\product-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Adminassets\\images\\others\\sign-up-1.jpg",
+      "PackagePath": "staticwebassets\\Adminassets\\images\\others\\sign-up-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Adminassets\\images\\others\\sign-up-2.png",
+      "PackagePath": "staticwebassets\\Adminassets\\images\\others\\sign-up-2.png"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Adminassets\\images\\others\\thumb-1.jpg",
+      "PackagePath": "staticwebassets\\Adminassets\\images\\others\\thumb-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Adminassets\\images\\others\\thumb-10.jpg",
+      "PackagePath": "staticwebassets\\Adminassets\\images\\others\\thumb-10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Adminassets\\images\\others\\thumb-11.jpg",
+      "PackagePath": "staticwebassets\\Adminassets\\images\\others\\thumb-11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Adminassets\\images\\others\\thumb-12.jpg",
+      "PackagePath": "staticwebassets\\Adminassets\\images\\others\\thumb-12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Adminassets\\images\\others\\thumb-13.jpg",
+      "PackagePath": "staticwebassets\\Adminassets\\images\\others\\thumb-13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Adminassets\\images\\others\\thumb-14.jpg",
+      "PackagePath": "staticwebassets\\Adminassets\\images\\others\\thumb-14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Adminassets\\images\\others\\thumb-15.jpg",
+      "PackagePath": "staticwebassets\\Adminassets\\images\\others\\thumb-15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Adminassets\\images\\others\\thumb-16.jpg",
+      "PackagePath": "staticwebassets\\Adminassets\\images\\others\\thumb-16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Adminassets\\images\\others\\thumb-2.jpg",
+      "PackagePath": "staticwebassets\\Adminassets\\images\\others\\thumb-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Adminassets\\images\\others\\thumb-3.jpg",
+      "PackagePath": "staticwebassets\\Adminassets\\images\\others\\thumb-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Adminassets\\images\\others\\thumb-4.jpg",
+      "PackagePath": "staticwebassets\\Adminassets\\images\\others\\thumb-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Adminassets\\images\\others\\thumb-5.jpg",
+      "PackagePath": "staticwebassets\\Adminassets\\images\\others\\thumb-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Adminassets\\images\\others\\thumb-6.jpg",
+      "PackagePath": "staticwebassets\\Adminassets\\images\\others\\thumb-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Adminassets\\images\\others\\thumb-7.jpg",
+      "PackagePath": "staticwebassets\\Adminassets\\images\\others\\thumb-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Adminassets\\images\\others\\thumb-8.jpg",
+      "PackagePath": "staticwebassets\\Adminassets\\images\\others\\thumb-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Adminassets\\images\\others\\thumb-9.jpg",
+      "PackagePath": "staticwebassets\\Adminassets\\images\\others\\thumb-9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Adminassets\\images\\others\\visa.png",
+      "PackagePath": "staticwebassets\\Adminassets\\images\\others\\visa.png"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Adminassets\\images\\others\\weather-app-thumb.jpg",
+      "PackagePath": "staticwebassets\\Adminassets\\images\\others\\weather-app-thumb.jpg"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Adminassets\\js\\app.min.js",
+      "PackagePath": "staticwebassets\\Adminassets\\js\\app.min.js"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Adminassets\\js\\pages\\chartist.js",
+      "PackagePath": "staticwebassets\\Adminassets\\js\\pages\\chartist.js"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Adminassets\\js\\pages\\chartjs.js",
+      "PackagePath": "staticwebassets\\Adminassets\\js\\pages\\chartjs.js"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Adminassets\\js\\pages\\chat.js",
+      "PackagePath": "staticwebassets\\Adminassets\\js\\pages\\chat.js"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Adminassets\\js\\pages\\dashboard-crm.js",
+      "PackagePath": "staticwebassets\\Adminassets\\js\\pages\\dashboard-crm.js"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Adminassets\\js\\pages\\dashboard-default.js",
+      "PackagePath": "staticwebassets\\Adminassets\\js\\pages\\dashboard-default.js"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Adminassets\\js\\pages\\dashboard-e-commerce.js",
+      "PackagePath": "staticwebassets\\Adminassets\\js\\pages\\dashboard-e-commerce.js"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Adminassets\\js\\pages\\dashboard-project.js",
+      "PackagePath": "staticwebassets\\Adminassets\\js\\pages\\dashboard-project.js"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Adminassets\\js\\pages\\datatables.js",
+      "PackagePath": "staticwebassets\\Adminassets\\js\\pages\\datatables.js"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Adminassets\\js\\pages\\e-commerce-order-list.js",
+      "PackagePath": "staticwebassets\\Adminassets\\js\\pages\\e-commerce-order-list.js"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Adminassets\\js\\pages\\e-commerce-product-edit.js",
+      "PackagePath": "staticwebassets\\Adminassets\\js\\pages\\e-commerce-product-edit.js"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Adminassets\\js\\pages\\file-manager.js",
+      "PackagePath": "staticwebassets\\Adminassets\\js\\pages\\file-manager.js"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Adminassets\\js\\pages\\form-elements.js",
+      "PackagePath": "staticwebassets\\Adminassets\\js\\pages\\form-elements.js"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Adminassets\\js\\pages\\form-validation.js",
+      "PackagePath": "staticwebassets\\Adminassets\\js\\pages\\form-validation.js"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Adminassets\\js\\pages\\icon.js",
+      "PackagePath": "staticwebassets\\Adminassets\\js\\pages\\icon.js"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Adminassets\\js\\pages\\mail.js",
+      "PackagePath": "staticwebassets\\Adminassets\\js\\pages\\mail.js"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Adminassets\\js\\pages\\pricing.js",
+      "PackagePath": "staticwebassets\\Adminassets\\js\\pages\\pricing.js"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Adminassets\\js\\pages\\profile.js",
+      "PackagePath": "staticwebassets\\Adminassets\\js\\pages\\profile.js"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Adminassets\\js\\pages\\project-list.js",
+      "PackagePath": "staticwebassets\\Adminassets\\js\\pages\\project-list.js"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Adminassets\\js\\pages\\slider.js",
+      "PackagePath": "staticwebassets\\Adminassets\\js\\pages\\slider.js"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Adminassets\\js\\vendors.min.js",
+      "PackagePath": "staticwebassets\\Adminassets\\js\\vendors.min.js"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Adminassets\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\Adminassets\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Adminassets\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\Adminassets\\scss\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Adminassets\\scss\\app.scss",
+      "PackagePath": "staticwebassets\\Adminassets\\scss\\app.scss"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Adminassets\\scss\\apps\\_chat.scss",
+      "PackagePath": "staticwebassets\\Adminassets\\scss\\apps\\_chat.scss"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Adminassets\\scss\\apps\\_e-commerce.scss",
+      "PackagePath": "staticwebassets\\Adminassets\\scss\\apps\\_e-commerce.scss"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Adminassets\\scss\\apps\\_file-manager.scss",
+      "PackagePath": "staticwebassets\\Adminassets\\scss\\apps\\_file-manager.scss"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Adminassets\\scss\\apps\\_mail.scss",
+      "PackagePath": "staticwebassets\\Adminassets\\scss\\apps\\_mail.scss"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Adminassets\\scss\\common\\_general.scss",
+      "PackagePath": "staticwebassets\\Adminassets\\scss\\common\\_general.scss"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Adminassets\\scss\\common\\_utilities.scss",
+      "PackagePath": "staticwebassets\\Adminassets\\scss\\common\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Adminassets\\scss\\components\\_accordion.scss",
+      "PackagePath": "staticwebassets\\Adminassets\\scss\\components\\_accordion.scss"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Adminassets\\scss\\components\\_carousel.scss",
+      "PackagePath": "staticwebassets\\Adminassets\\scss\\components\\_carousel.scss"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Adminassets\\scss\\components\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\Adminassets\\scss\\components\\_dropdown.scss"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Adminassets\\scss\\components\\_menu.scss",
+      "PackagePath": "staticwebassets\\Adminassets\\scss\\components\\_menu.scss"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Adminassets\\scss\\components\\_modal.scss",
+      "PackagePath": "staticwebassets\\Adminassets\\scss\\components\\_modal.scss"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Adminassets\\scss\\components\\_popovers.scss",
+      "PackagePath": "staticwebassets\\Adminassets\\scss\\components\\_popovers.scss"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Adminassets\\scss\\components\\_progress-bar.scss",
+      "PackagePath": "staticwebassets\\Adminassets\\scss\\components\\_progress-bar.scss"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Adminassets\\scss\\components\\_tabs.scss",
+      "PackagePath": "staticwebassets\\Adminassets\\scss\\components\\_tabs.scss"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Adminassets\\scss\\components\\_toasts.scss",
+      "PackagePath": "staticwebassets\\Adminassets\\scss\\components\\_toasts.scss"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Adminassets\\scss\\components\\_tooltips.scss",
+      "PackagePath": "staticwebassets\\Adminassets\\scss\\components\\_tooltips.scss"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Adminassets\\scss\\dashboard\\projects.scss",
+      "PackagePath": "staticwebassets\\Adminassets\\scss\\dashboard\\projects.scss"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Adminassets\\scss\\forms\\_checkbox.scss",
+      "PackagePath": "staticwebassets\\Adminassets\\scss\\forms\\_checkbox.scss"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Adminassets\\scss\\forms\\_input.scss",
+      "PackagePath": "staticwebassets\\Adminassets\\scss\\forms\\_input.scss"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Adminassets\\scss\\forms\\_radio.scss",
+      "PackagePath": "staticwebassets\\Adminassets\\scss\\forms\\_radio.scss"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Adminassets\\scss\\forms\\_select.scss",
+      "PackagePath": "staticwebassets\\Adminassets\\scss\\forms\\_select.scss"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Adminassets\\scss\\forms\\_star_rating.scss",
+      "PackagePath": "staticwebassets\\Adminassets\\scss\\forms\\_star_rating.scss"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Adminassets\\scss\\forms\\_switch.scss",
+      "PackagePath": "staticwebassets\\Adminassets\\scss\\forms\\_switch.scss"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Adminassets\\scss\\forms\\_validation.scss",
+      "PackagePath": "staticwebassets\\Adminassets\\scss\\forms\\_validation.scss"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Adminassets\\scss\\forms\\_wizard.scss",
+      "PackagePath": "staticwebassets\\Adminassets\\scss\\forms\\_wizard.scss"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Adminassets\\scss\\plugins\\_bootstrap.scss",
+      "PackagePath": "staticwebassets\\Adminassets\\scss\\plugins\\_bootstrap.scss"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Adminassets\\scss\\plugins\\_chartist.scss",
+      "PackagePath": "staticwebassets\\Adminassets\\scss\\plugins\\_chartist.scss"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Adminassets\\scss\\plugins\\_chartjs.scss",
+      "PackagePath": "staticwebassets\\Adminassets\\scss\\plugins\\_chartjs.scss"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Adminassets\\scss\\plugins\\_datatables.scss",
+      "PackagePath": "staticwebassets\\Adminassets\\scss\\plugins\\_datatables.scss"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Adminassets\\scss\\plugins\\_datepicker.scss",
+      "PackagePath": "staticwebassets\\Adminassets\\scss\\plugins\\_datepicker.scss"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Adminassets\\scss\\plugins\\_nouislider.scss",
+      "PackagePath": "staticwebassets\\Adminassets\\scss\\plugins\\_nouislider.scss"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Adminassets\\scss\\plugins\\_perfect-scroll-bar.scss",
+      "PackagePath": "staticwebassets\\Adminassets\\scss\\plugins\\_perfect-scroll-bar.scss"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Adminassets\\scss\\plugins\\_prism.scss",
+      "PackagePath": "staticwebassets\\Adminassets\\scss\\plugins\\_prism.scss"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Adminassets\\scss\\plugins\\_quill.scss",
+      "PackagePath": "staticwebassets\\Adminassets\\scss\\plugins\\_quill.scss"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Adminassets\\scss\\plugins\\_select2.scss",
+      "PackagePath": "staticwebassets\\Adminassets\\scss\\plugins\\_select2.scss"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Adminassets\\scss\\tables\\_tables.scss",
+      "PackagePath": "staticwebassets\\Adminassets\\scss\\tables\\_tables.scss"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Adminassets\\scss\\template\\_footer.scss",
+      "PackagePath": "staticwebassets\\Adminassets\\scss\\template\\_footer.scss"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Adminassets\\scss\\template\\_header.scss",
+      "PackagePath": "staticwebassets\\Adminassets\\scss\\template\\_header.scss"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Adminassets\\scss\\template\\_page-container.scss",
+      "PackagePath": "staticwebassets\\Adminassets\\scss\\template\\_page-container.scss"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Adminassets\\scss\\template\\_quick-view.scss",
+      "PackagePath": "staticwebassets\\Adminassets\\scss\\template\\_quick-view.scss"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Adminassets\\scss\\template\\_side-nav.scss",
+      "PackagePath": "staticwebassets\\Adminassets\\scss\\template\\_side-nav.scss"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Adminassets\\scss\\theme-configurator\\_theme-configurator.scss",
+      "PackagePath": "staticwebassets\\Adminassets\\scss\\theme-configurator\\_theme-configurator.scss"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Adminassets\\scss\\ui-elements\\_alert.scss",
+      "PackagePath": "staticwebassets\\Adminassets\\scss\\ui-elements\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Adminassets\\scss\\ui-elements\\_anticon.scss",
+      "PackagePath": "staticwebassets\\Adminassets\\scss\\ui-elements\\_anticon.scss"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Adminassets\\scss\\ui-elements\\_avatar.scss",
+      "PackagePath": "staticwebassets\\Adminassets\\scss\\ui-elements\\_avatar.scss"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Adminassets\\scss\\ui-elements\\_badge.scss",
+      "PackagePath": "staticwebassets\\Adminassets\\scss\\ui-elements\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Adminassets\\scss\\ui-elements\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\Adminassets\\scss\\ui-elements\\_breadcrumb.scss"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Adminassets\\scss\\ui-elements\\_buttons.scss",
+      "PackagePath": "staticwebassets\\Adminassets\\scss\\ui-elements\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Adminassets\\scss\\ui-elements\\_cards.scss",
+      "PackagePath": "staticwebassets\\Adminassets\\scss\\ui-elements\\_cards.scss"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Adminassets\\scss\\ui-elements\\_font-awesome.scss",
+      "PackagePath": "staticwebassets\\Adminassets\\scss\\ui-elements\\_font-awesome.scss"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Adminassets\\scss\\ui-elements\\_icons.scss",
+      "PackagePath": "staticwebassets\\Adminassets\\scss\\ui-elements\\_icons.scss"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Adminassets\\scss\\ui-elements\\_list.scss",
+      "PackagePath": "staticwebassets\\Adminassets\\scss\\ui-elements\\_list.scss"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Adminassets\\scss\\ui-elements\\_maps.scss",
+      "PackagePath": "staticwebassets\\Adminassets\\scss\\ui-elements\\_maps.scss"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Adminassets\\scss\\ui-elements\\_noticfication.scss",
+      "PackagePath": "staticwebassets\\Adminassets\\scss\\ui-elements\\_noticfication.scss"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Adminassets\\scss\\ui-elements\\_page-title.scss",
+      "PackagePath": "staticwebassets\\Adminassets\\scss\\ui-elements\\_page-title.scss"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Adminassets\\scss\\ui-elements\\_pagination.scss",
+      "PackagePath": "staticwebassets\\Adminassets\\scss\\ui-elements\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Adminassets\\scss\\ui-elements\\_timeline.scss",
+      "PackagePath": "staticwebassets\\Adminassets\\scss\\ui-elements\\_timeline.scss"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Images\\2.jpg",
+      "PackagePath": "staticwebassets\\Images\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Images\\chop1.jpg",
+      "PackagePath": "staticwebassets\\Images\\chop1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Images\\chop10.jpg",
+      "PackagePath": "staticwebassets\\Images\\chop10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Images\\chop2.jpg",
+      "PackagePath": "staticwebassets\\Images\\chop2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Images\\chop3.jpg",
+      "PackagePath": "staticwebassets\\Images\\chop3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Images\\chop4.jpg",
+      "PackagePath": "staticwebassets\\Images\\chop4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Images\\chop5.jpg",
+      "PackagePath": "staticwebassets\\Images\\chop5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Images\\chop6.jpg",
+      "PackagePath": "staticwebassets\\Images\\chop6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Images\\chop7.jpg",
+      "PackagePath": "staticwebassets\\Images\\chop7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Images\\chop8.jpg",
+      "PackagePath": "staticwebassets\\Images\\chop8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Images\\chop9.jpg",
+      "PackagePath": "staticwebassets\\Images\\chop9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Images\\hublot1.jpg",
+      "PackagePath": "staticwebassets\\Images\\hublot1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Images\\hublot10.jpg",
+      "PackagePath": "staticwebassets\\Images\\hublot10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Images\\hublot2.jpg",
+      "PackagePath": "staticwebassets\\Images\\hublot2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Images\\hublot3.jpg",
+      "PackagePath": "staticwebassets\\Images\\hublot3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Images\\hublot4.jpg",
+      "PackagePath": "staticwebassets\\Images\\hublot4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Images\\hublot5.jpg",
+      "PackagePath": "staticwebassets\\Images\\hublot5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Images\\hublot6.jpg",
+      "PackagePath": "staticwebassets\\Images\\hublot6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Images\\hublot7.jpg",
+      "PackagePath": "staticwebassets\\Images\\hublot7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Images\\hublot8.jpg",
+      "PackagePath": "staticwebassets\\Images\\hublot8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Images\\hublot9.jpg",
+      "PackagePath": "staticwebassets\\Images\\hublot9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Images\\patek1.jpg",
+      "PackagePath": "staticwebassets\\Images\\patek1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Images\\patek10.jpg",
+      "PackagePath": "staticwebassets\\Images\\patek10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Images\\patek2.jpg",
+      "PackagePath": "staticwebassets\\Images\\patek2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Images\\patek3.jpg",
+      "PackagePath": "staticwebassets\\Images\\patek3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Images\\patek4.jpg",
+      "PackagePath": "staticwebassets\\Images\\patek4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Images\\patek5.jpg",
+      "PackagePath": "staticwebassets\\Images\\patek5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Images\\patek6.jpg",
+      "PackagePath": "staticwebassets\\Images\\patek6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Images\\patek7.jpg",
+      "PackagePath": "staticwebassets\\Images\\patek7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Images\\patek8.jpg",
+      "PackagePath": "staticwebassets\\Images\\patek8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Images\\patek9.jpg",
+      "PackagePath": "staticwebassets\\Images\\patek9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Images\\rm1.jpg",
+      "PackagePath": "staticwebassets\\Images\\rm1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Images\\rm10.jpg",
+      "PackagePath": "staticwebassets\\Images\\rm10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Images\\rm2.jpg",
+      "PackagePath": "staticwebassets\\Images\\rm2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Images\\rm3.jpg",
+      "PackagePath": "staticwebassets\\Images\\rm3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Images\\rm4.jpg",
+      "PackagePath": "staticwebassets\\Images\\rm4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Images\\rm5.jpg",
+      "PackagePath": "staticwebassets\\Images\\rm5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Images\\rm6.jpg",
+      "PackagePath": "staticwebassets\\Images\\rm6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Images\\rm7.jpg",
+      "PackagePath": "staticwebassets\\Images\\rm7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Images\\rm8.jpg",
+      "PackagePath": "staticwebassets\\Images\\rm8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Images\\rm9.jpg",
+      "PackagePath": "staticwebassets\\Images\\rm9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Images\\rolex1.jpg",
+      "PackagePath": "staticwebassets\\Images\\rolex1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Images\\rolex10.jpg",
+      "PackagePath": "staticwebassets\\Images\\rolex10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Images\\rolex2.jpg",
+      "PackagePath": "staticwebassets\\Images\\rolex2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Images\\rolex3.jpg",
+      "PackagePath": "staticwebassets\\Images\\rolex3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Images\\rolex4.jpg",
+      "PackagePath": "staticwebassets\\Images\\rolex4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Images\\rolex5.jpg",
+      "PackagePath": "staticwebassets\\Images\\rolex5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Images\\rolex6.jpg",
+      "PackagePath": "staticwebassets\\Images\\rolex6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Images\\rolex7.jpg",
+      "PackagePath": "staticwebassets\\Images\\rolex7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Images\\rolex8.jpg",
+      "PackagePath": "staticwebassets\\Images\\rolex8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\Images\\rolex9.jpg",
+      "PackagePath": "staticwebassets\\Images\\rolex9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\css\\bootswach.css",
+      "PackagePath": "staticwebassets\\css\\bootswach.css"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\fonts\\glyphicons-halflings-regular.eot",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.eot"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\fonts\\glyphicons-halflings-regular.svg",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.svg"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\fonts\\glyphicons-halflings-regular.ttf",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\fonts\\glyphicons-halflings-regular.woff",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\fonts\\glyphicons-halflings-regular.woff2",
+      "PackagePath": "staticwebassets\\fonts\\glyphicons-halflings-regular.woff2"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\js\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\vendor\\font-awesome\\HELP-US-OUT.txt",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\HELP-US-OUT.txt"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\vendor\\font-awesome\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\css\\font-awesome.css"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\vendor\\font-awesome\\css\\font-awesome.css.map",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\css\\font-awesome.css.map"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\vendor\\font-awesome\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\vendor\\font-awesome\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\vendor\\font-awesome\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\vendor\\font-awesome\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\vendor\\font-awesome\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\vendor\\font-awesome\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\vendor\\font-awesome\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\vendor\\font-awesome\\less\\animated.less",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\less\\animated.less"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\vendor\\font-awesome\\less\\bordered-pulled.less",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\less\\bordered-pulled.less"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\vendor\\font-awesome\\less\\core.less",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\less\\core.less"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\vendor\\font-awesome\\less\\extras.less",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\less\\extras.less"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\vendor\\font-awesome\\less\\fixed-width.less",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\less\\fixed-width.less"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\vendor\\font-awesome\\less\\font-awesome.less",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\less\\font-awesome.less"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\vendor\\font-awesome\\less\\icons.less",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\less\\icons.less"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\vendor\\font-awesome\\less\\larger.less",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\less\\larger.less"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\vendor\\font-awesome\\less\\list.less",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\less\\list.less"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\vendor\\font-awesome\\less\\mixins.less",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\less\\mixins.less"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\vendor\\font-awesome\\less\\path.less",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\less\\path.less"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\vendor\\font-awesome\\less\\rotated-flipped.less",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\less\\rotated-flipped.less"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\vendor\\font-awesome\\less\\screen-reader.less",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\less\\screen-reader.less"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\vendor\\font-awesome\\less\\spinning.less",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\less\\spinning.less"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\vendor\\font-awesome\\less\\stacked.less",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\less\\stacked.less"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\vendor\\font-awesome\\less\\variables.less",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\less\\variables.less"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\vendor\\font-awesome\\scss\\_animated.scss",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\scss\\_animated.scss"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\vendor\\font-awesome\\scss\\_bordered-pulled.scss",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\scss\\_bordered-pulled.scss"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\vendor\\font-awesome\\scss\\_core.scss",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\scss\\_core.scss"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\vendor\\font-awesome\\scss\\_extras.scss",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\scss\\_extras.scss"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\vendor\\font-awesome\\scss\\_fixed-width.scss",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\scss\\_fixed-width.scss"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\vendor\\font-awesome\\scss\\_icons.scss",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\scss\\_icons.scss"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\vendor\\font-awesome\\scss\\_larger.scss",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\scss\\_larger.scss"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\vendor\\font-awesome\\scss\\_list.scss",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\scss\\_list.scss"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\vendor\\font-awesome\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\vendor\\font-awesome\\scss\\_path.scss",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\scss\\_path.scss"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\vendor\\font-awesome\\scss\\_rotated-flipped.scss",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\scss\\_rotated-flipped.scss"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\vendor\\font-awesome\\scss\\_screen-reader.scss",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\scss\\_screen-reader.scss"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\vendor\\font-awesome\\scss\\_spinning.scss",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\scss\\_spinning.scss"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\vendor\\font-awesome\\scss\\_stacked.scss",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\scss\\_stacked.scss"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\vendor\\font-awesome\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\scss\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\defaultuser0.LAPTOP-POTNR7PE\\Desktop\\hutech\\Lập trình web\\WEB\\original\\WatchStore5.8\\WatchStore\\wwwroot\\vendor\\font-awesome\\scss\\font-awesome.scss",
+      "PackagePath": "staticwebassets\\vendor\\font-awesome\\scss\\font-awesome.scss"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.WatchStore.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.WatchStore.props",
+      "PackagePath": "build\\WatchStore.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.WatchStore.props",
+      "PackagePath": "buildMultiTargeting\\WatchStore.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.WatchStore.props",
+      "PackagePath": "buildTransitive\\WatchStore.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
